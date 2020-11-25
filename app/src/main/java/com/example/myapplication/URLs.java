@@ -16,6 +16,7 @@ public class URLs {
     public static final String Smoke = "http://192.168.43.154/project/smoke.php";
     public static final String Hchart = "http://192.168.43.154/project/humChart.php";
     public static final String Tchart = "http://192.168.43.154/project/tempChart.php";
+// for git edit --------heloo----------
 
 
 
